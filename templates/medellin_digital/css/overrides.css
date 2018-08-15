@@ -1,0 +1,18 @@
+.mod_mdsites {
+  background-image: url("/images/bg-micrositios.png");
+  background-size: cover;
+}
+
+.mod_mdsites h2 {
+  display: block;
+  color: #fff;
+  font-size: 30px;
+  margin-bottom: 0;
+}
+
+.mod_mdsites h2.big-h2 {
+  display: block;
+  font-size: 50px;
+  margin-top: 0;
+  margin-bottom: 30px;
+}
