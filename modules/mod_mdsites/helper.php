@@ -23,6 +23,7 @@ class ModMdSitesHelper
     public static function getSites($params)
     {
 		JFactory::getDocument()->addStyleSheet('https://cdnjs.cloudflare.com/ajax/libs/imagehover.css/1.0/css/imagehover.min.css');
+        JFactory::getDocument()->addScript('my_script.js');
         return 'Hello, World!';
     }
 }

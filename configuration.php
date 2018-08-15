@@ -13,8 +13,8 @@ class JConfig {
 	public $debug_lang = '0';
 	public $dbtype = 'postgresql';
 	public $host = 'localhost';
-	public $user = 'md_landing';
-	public $password = 'Shaeli5o**';
+	public $user = 'admin';
+	public $password = '1234';
 	public $db = 'md_landing';
 	public $dbprefix = 'f8zmi_';
 	public $live_site = '';
